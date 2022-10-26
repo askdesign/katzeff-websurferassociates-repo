@@ -1,0 +1,16 @@
+drwxr-sr-x    5 1240582  1557204      4096 Sep 09  2013 .
+drwxr-sr-x    6 1240582  1557204      4096 Sep 25 16:52 ..
+-rw-rw-r--    1 1240582  1557204      6148 Sep 09  2013 .DS_Store
+-rw-rw-r--    1 1240582  1557204      2771 Sep 09  2013 README.txt
+-rw-rw-r--    1 1240582  1557204      7901 Sep 09  2013 functions-original.php
+-rw-rw-r--    1 1240582  1557204      8497 Sep 09  2013 functions.php
+-rw-rw-r--    1 1240582  1557204      3105 Sep 09  2013 home.php
+drwxr-sr-x   16 1240582  1557204      8192 Sep 09  2013 images
+drwxr-sr-x    3 1240582  1557204      4096 Jun 07  2012 lib
+-rw-rw-r--    1 1240582  1557204      1110 Sep 09  2013 page_landing.php
+-rw-rw-r--    1 1240582  1557204      5244 Sep 09  2013 page_portfolio.php
+-rw-rw-r--    1 1240582  1557204     77103 Sep 09  2013 screenshot.png
+-rw-rw-r--    1 1240582  1557204     81122 Jul 09  2013 style-genesis-optimal-v1.2.1.css
+-rw-rw-r--    1 1240582  1557204     69743 Sep 09  2013 style-genesis-optimal-v1.3.css
+-rw-rw-r--    1 1240582  1557204     78847 Feb 07  2014 style.css
+drwxr-sr-x    2 1240582  1557204      4096 Jun 07  2012 xml
